@@ -21,7 +21,8 @@ disableKinds = ["taxonomy", "term"]
     { linkedin = "http://jamesgallagher.in" },
     { instagram = "https://instagram.com/jamesgallagher.ie" },
     { twitter = "https://twitter.com/jamesgallagher" },
-    
+    { github = "https://github.com/jamesgallagher-ie" },
+
     # { email = "mailto:hello@your_domain.com" },
     # { link = "https://link-to-some-website.com/" },
     # { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
@@ -33,7 +34,7 @@ disableKinds = ["taxonomy", "term"]
     # { facebook = "https://facebook.com/username" },
     # { flickr = "https://www.flickr.com/photos/username/" },
     # { foursquare = "https://foursquare.com/username" },
-    # { github = "https://github.com/username" },
+
     # { gitlab = "https://gitlab.com/username" },
     # { google = "https://www.google.com/" },
     
